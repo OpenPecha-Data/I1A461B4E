@@ -1,0 +1,104 @@
+id: 79437d5633fa4ddb9f886f3b77e1f521
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2601b1fc1db8466a926e93d24959aeb3:
+    span:
+      start: 0
+      end: 115
+    metadata: {}
+  99c85210e5e94f7bad7f202f5f7c8412:
+    span:
+      start: 118
+      end: 316
+    metadata: {}
+  1b097545cea4474c8426514362bd1775:
+    span:
+      start: 319
+      end: 386
+    metadata: {}
+  3e1172a7cd1944d7958d36b5fe3e99af:
+    span:
+      start: 389
+      end: 494
+    metadata: {}
+  d60268182b9a4fd5aeb74779c4f86ee5:
+    span:
+      start: 497
+      end: 554
+    metadata: {}
+  52fabd7fee18464490e0d60c76bfc404:
+    span:
+      start: 557
+      end: 636
+    metadata: {}
+  e7820c5aaee642e4b8dbaac5f1275953:
+    span:
+      start: 639
+      end: 708
+    metadata: {}
+  49961220f02b4c48bd4ab7207a2af2fb:
+    span:
+      start: 711
+      end: 827
+    metadata: {}
+  2f81b3df597e4686a329e3402db63136:
+    span:
+      start: 830
+      end: 899
+    metadata: {}
+  8ebadf398dfc4e85953210e499dcd364:
+    span:
+      start: 902
+      end: 990
+    metadata: {}
+  f0d7ef3f61954b58915ff584c2db3ebc:
+    span:
+      start: 993
+      end: 1070
+    metadata: {}
+  1846f8030deb409c9fad06e4dfcf912e:
+    span:
+      start: 1073
+      end: 1157
+    metadata: {}
+  44b875b0bdda43789cfa85f7766add40:
+    span:
+      start: 1160
+      end: 1226
+    metadata: {}
+  9fdb6e8bff9c4629acdb7e74bb3c448b:
+    span:
+      start: 1229
+      end: 1347
+    metadata: {}
+  1f073849d1974e0dae261c740a1b480b:
+    span:
+      start: 1350
+      end: 1500
+    metadata: {}
+  0f51067683a04d3a930672a2113ef160:
+    span:
+      start: 1503
+      end: 1597
+    metadata: {}
+  848175c535f84206b5a4ccfbec9f16db:
+    span:
+      start: 1600
+      end: 1674
+    metadata: {}
+  d9f8afd6d60943448edf823202f9de7e:
+    span:
+      start: 1677
+      end: 1767
+    metadata: {}
+  84cb297b2b6f471b804f07e426fcaef6:
+    span:
+      start: 1770
+      end: 1851
+    metadata: {}
+  a69a8638d1c34e0486a5ba639505b644:
+    span:
+      start: 1854
+      end: 1928
+    metadata: {}
